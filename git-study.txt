@@ -1,5 +1,0 @@
-$git init Arduino-Drone
-$cd Arduino-Drone 
-$git config user.name "LUCY05261015" 
-$git config user.email a2gis1015@gmail.com
-
